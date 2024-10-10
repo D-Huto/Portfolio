@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Flappy Bird AI Player",
+    "imageSrc": "projects/project.png",
+    "description": "An AI that plays flappy bird! Using the NEAT python module.",
+    "skills": ["Python"],
+    "demo": "https://github.com/D-Huto/Flappy-Bird-AI-Player",
+    "source": "https://github.com/D-Huto/Flappy-Bird-AI-Player"
+  },
+  {
+    "title": "Price_Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "This application allows users to track e-commerce prices and get notifications on price drops or stock availability using automated web scraping.",
+    "skills": ["Next.js", "MongoDB", "Tailwind CSS", "Bright Data", "Nodemailer"],
+    "demo": "https://price-tracker-pi-ten.vercel.app/",
+    "source": "https://github.com/D-Huto/Price_Tracker"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is my personal portfolio to showcase my skills and projects.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

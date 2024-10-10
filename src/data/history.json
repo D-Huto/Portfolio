@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Student",
+    "organisation": "NIT Raipur",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Learner"],
+    "imageSrc": "history/NITRR.png"
+  },
+  {
+    "role": "Student",
+    "organisation": "NIT Raipur",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Learner"],
+    "imageSrc": "history/NITRR.png"
+  },{
+    "role": "Student",
+    "organisation": "NIT Raipur",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Learner"],
+    "imageSrc": "history/NITRR.png"
+  }
+]
