@@ -19,8 +19,8 @@
     "title": "Portfolio",
     "imageSrc": "projects/project.png",
     "description": "This is my personal portfolio to showcase my skills and projects.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "JavaScript", "Node"],
+    "demo": "https://portfolio-eta-eight-31.vercel.app/",
+    "source": "https://github.com/D-Huto/Portfolio"
   }
 ]
